@@ -1,0 +1,19 @@
+﻿  0905.c
+C:\Users\skunh\source\repos\c2 수업\c2 수업\0905.c(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  0912.c
+  0919.c
+  0926.c
+  1002.c
+  1010.c
+  1017.c
+  1031.c
+C:\Users\skunh\source\repos\c2 수업\c2 수업\1031.c(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  1107.c
+  1114.c
+  1121.c
+  1128.c
+  코드를 생성하고 있습니다.
+  Previous IPDB not found, fall back to full compilation.
+  All 4 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  c2 수업.vcxproj -> C:\Users\skunh\source\repos\c2 수업\x64\Release\c2 수업.exe
